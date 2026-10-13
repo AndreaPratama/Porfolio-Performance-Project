@@ -62,6 +62,10 @@ Key data points:
 - Total approved budget of about EUR 86.4M.
 - Cost, schedule and progress, milestones, resource hours, risks and mitigation actions, benefits, stakeholder confidence and a health score of 0–100.
 
+The source workbook is included in the project folder as `ecommerce_profitability_challenge_data.xlsx`.
+
+[ZoomCharts Power BI Challenges](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/fp20-analytics-challenge-41)
+
 ## 5. Data Transformation
 
 Data was loaded and typed in Power Query. A calculated `CurrentSnapshotTable` keeps one latest row per project, so current-state KPIs are not inflated by monthly history. Business metrics are DAX measures, grouped into display folders by page. The core ones are below.
@@ -402,6 +406,10 @@ The model is a star schema. Dimension tables filter two fact-level tables:
 - A health-score range filter helps focus on weaker projects.
 - Reference labels change with filters, so every KPI explains itself.
 - Dynamic format strings keep currency, hours and days consistent.
+
+You can interact with report here [FP20 Analytics](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/077143850003bbbb868c7241555ae06a?challenge=zoomcharts-power-bi-challenge-september-2026)
+
+![](dashboard_e_commerce.png)
 
 ## 8. Conclusion
 
