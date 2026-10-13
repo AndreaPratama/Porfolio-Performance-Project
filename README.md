@@ -407,7 +407,7 @@ The model is a star schema. Dimension tables filter two fact-level tables:
 - Reference labels change with filters, so every KPI explains itself.
 - Dynamic format strings keep currency, hours and days consistent.
 
-You can interact with report here [FP20 Analytics](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/077143850003bbbb868c7241555ae06a?challenge=zoomcharts-power-bi-challenge-september-2026)
+You can interact with report here [FP20 Analytics](https://app.powerbi.com/view?r=eyJrIjoiY2RiYzhiNTQtZmRlZC00ZjVmLWIxMzgtZGRmYWE0Y2E3NmQ2IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 ![](dashboard.svg)
 
