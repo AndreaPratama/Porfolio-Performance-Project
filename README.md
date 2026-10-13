@@ -2,7 +2,7 @@
 
 A decision-ready Power BI report that turns monthly project snapshots into a clear view of portfolio performance, delivery risk and which projects to accelerate, recover, pause or terminate.
 
-> Built for the *PMO Portfolio: From Strategy to Success* challenge. Add a dashboard screenshot here, for example `![Dashboard](images/dashboard.png)`.
+![Hero](hero.jpg)
 
 ## 1. Introduction
 
@@ -409,7 +409,7 @@ The model is a star schema. Dimension tables filter two fact-level tables:
 
 You can interact with report here [FP20 Analytics](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/077143850003bbbb868c7241555ae06a?challenge=zoomcharts-power-bi-challenge-september-2026)
 
-![](dashboard_e_commerce.png)
+![](dashboard.svg)
 
 ## 8. Conclusion
 
@@ -425,14 +425,8 @@ The portfolio is not failing, but it is leaking cost. Delivery is slowly getting
 6. **Track benefits, not just status.** Add benefit realisation to the Green criteria and review the 47 Green projects below 70%.
 7. **Review the 5 paused or terminated projects** (CPI 0.74–0.79) to capture lessons and stop further spend.
 
-## 9. Project Contents
+## Project Contents
 
-- `Project Portfolio Performance.pbip`: the Power BI project.
-- `Project Portfolio Performance.SemanticModel/`: model definition (TMDL).
-- `Project Portfolio Performance.Report/`: report definition (PBIR).
-- `README.md`: this document.
-
-## 10. Notes
-
-- Triage is a review aid, not an automated funding decision.
-- ZoomCharts visuals need the ZoomCharts custom visuals installed.
+- `PMO Portfolio_From Strategy to Success_C41.xlsx`: source challenge dataset
+- `Readme.md`: project documentation
+- Power BI report: interactive dashboard containing the three analytical pages, DAX measures, ZoomCharts visuals, KPI labels, and HTML KPI design
