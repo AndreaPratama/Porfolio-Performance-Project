@@ -62,7 +62,7 @@ Key data points:
 - Total approved budget of about EUR 86.4M.
 - Cost, schedule and progress, milestones, resource hours, risks and mitigation actions, benefits, stakeholder confidence and a health score of 0–100.
 
-The source workbook is included in the project folder as `ecommerce_profitability_challenge_data.xlsx`.
+The source workbook is included in the project folder as `PMO Portfolio_From Strategy to Success_C41.xlsx`.
 
 [ZoomCharts Power BI Challenges](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/fp20-analytics-challenge-41)
 
